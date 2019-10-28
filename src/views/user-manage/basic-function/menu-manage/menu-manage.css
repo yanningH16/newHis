@@ -1,0 +1,101 @@
+.ivu-dropdown {
+  width: 100%;
+  height: 32px;
+  font-size: 16px;
+  line-height: 32px;
+  border-radius: 4px;
+  padding: 0 15px;
+  background: #2db7f5;
+  margin: 4px 0;
+}
+.ivu-dropdown a {
+  color: #fff;
+}
+.ivu-dropdown .ivu-select-dropdown {
+  width: 98%;
+  margin: 0 11px;
+}
+.item .ivu-col {
+  height: 130px;
+  border: 1px solid #ddd;
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.2);
+  background: #fff;
+  text-align: right;
+  margin-bottom: 12px;
+  padding: 0 8px;
+}
+.item .ivu-col:hover {
+  background: #eaeaea;
+}
+.item .ivu-col .title {
+  margin: 2px 0;
+  font-size: 20px;
+  color: #337ab7;
+  text-align: center;
+}
+.item .ivu-col .remarks {
+  border-top: 1px dashed #dadada;
+  margin-bottom: 8px;
+  overflow: hidden;
+  font-size: 14px;
+  height: 48px;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  padding-top: 6px;
+  text-align: left;
+}
+.tit {
+  margin-bottom: 4px;
+  height: 36px;
+  line-height: 40px;
+}
+.tit h2 {
+  display: inline-block;
+}
+.ivu-col-offset-1 {
+  margin-left: 3%;
+}
+.addItem {
+  font-size: 80px;
+  margin: 2px 0;
+  text-align: center;
+}
+.operation {
+  display: inline;
+  margin-left: 2px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.operation .ivu-icon {
+  margin-right: 2px;
+}
+.menu-item:hover .operation {
+  display: inline;
+}
+.control-label {
+  width: 86px;
+}
+.ivu-upload {
+  display: inline-block;
+  margin-left: -3px;
+}
+.ivu-upload .ivu-btn {
+  border: none;
+  padding: 5px 8px;
+  margin-bottom: 6px;
+}
+.ivu-modal-footer {
+  padding: 4px 18px;
+}
+.ivu-modal .ivu-modal-footer .ivu-btn {
+  padding: 3px 7px;
+}
+label[data-v-45871ee6],
+input[data-v-45871ee6],
+button[data-v-45871ee6],
+select[data-v-45871ee6],
+textarea[data-v-45871ee6] {
+  line-height: 24px;
+}

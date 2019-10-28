@@ -1,0 +1,79 @@
+.medicalStaff .ry-left-tree,
+.ry-right-tree-26 {
+  height: 100%;
+}
+.medicalStaff .ry-left-tree {
+  width: 600px;
+  border-right: 2px solid #e9e9e9;
+}
+.medicalStaff .ry-left-tree .title {
+  display: flex;
+  margin-bottom: 10px;
+}
+.medicalStaff .ry-left-tree .title button {
+  margin-left: 25px;
+}
+.medicalStaff .control-label {
+  width: 100px;
+  text-align: left;
+  padding-left: 16px;
+  margin-bottom: 20px;
+}
+.medicalStaff .btn {
+  margin-right: -10px;
+  display: flex;
+}
+.medicalStaff .btn button {
+  margin-right: 10px;
+}
+.medicalStaff .ry-right-tree-26 h3 {
+  font-size: 18px;
+  height: 32px;
+  line-height: 32px;
+  margin-bottom: 12px;
+}
+.medicalStaff .tow {
+  width: 74%;
+}
+.medicalStaff .one {
+  width: 67%;
+}
+.medicalStaff .three {
+  width: 87%;
+}
+.medicalStaff .ivu-checkbox {
+  vertical-align: -webkit-baseline-middle;
+}
+@media screen and (min-width: 1620px) and (max-width: 1700px) {
+  .medicalStaff .tow {
+    width: 66.5%;
+  }
+  .medicalStaff .one {
+    width: 57%;
+  }
+  .medicalStaff .three {
+    width: 83%;
+  }
+}
+@media screen and (min-width: 1460px) and (max-width: 1620px) {
+  .medicalStaff .tow {
+    width: 60.5%;
+  }
+  .medicalStaff .one {
+    width: 50%;
+  }
+  .medicalStaff .three {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1320px) and (max-width: 1460px) {
+  .medicalStaff .tow {
+    width: 54.5%;
+  }
+  .medicalStaff .one {
+    width: 41.5%;
+  }
+  .medicalStaff .three {
+    width: 77%;
+  }
+}
